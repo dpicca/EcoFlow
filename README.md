@@ -1,12 +1,13 @@
 ### 1. Research Objectives and Hypotheses
 
 **Objectives:**
-• To model the flow of conspiratorial and semiotic motifs in *The Foucault Pendulum* using a fluid dynamics–inspired framework.
-• To compare the resulting dynamic visualizations and metrics with those obtained from a conventional LLM-based sentiment or thematic analysis method.
+
+* To model the flow of conspiratorial and semiotic motifs in *The Foucault Pendulum* using a fluid dynamics–inspired framework.
+* To compare the resulting dynamic visualizations and metrics with those obtained from a conventional LLM-based sentiment or thematic analysis method.
 
 **Hypotheses:**
-• The fluid dynamics–inspired approach will capture nuanced “currents” and temporal shifts in thematic intensity better than a baseline LLM method.
-• Experts (e.g., literary scholars) will rate the fluid-inspired visualizations as more reflective of Eco’s narrative complexity compared to conventional sentiment scores.
+* The fluid dynamics–inspired approach will capture nuanced “currents” and temporal shifts in thematic intensity better than a baseline LLM method.*
+* Experts (e.g., literary scholars) will rate the fluid-inspired visualizations as more reflective of Eco’s narrative complexity compared to conventional sentiment scores.
 
 ---
 
