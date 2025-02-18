@@ -20,8 +20,8 @@
 **Preprocessing Steps:**
 * **Cleaning:** Remove extraneous metadata and standardize formatting (e.g., punctuation, line breaks).
 * **Segmentation:**
- – Segment the text into logical units (e.g., chapters or fixed-length windows, such as every 1,000 words) to serve as discrete time steps for analysis.
- – Each segment will be treated as a “frame” in the fluid simulation.
+  * Segment the text into logical units (e.g., chapters or fixed-length windows, such as every 1,000 words) to serve as discrete time steps for analysis.
+  * Each segment will be treated as a “frame” in the fluid simulation.
 
 ---
 
