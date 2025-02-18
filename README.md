@@ -14,12 +14,12 @@
 ### 2. Data Selection and Preprocessing
 
 **Data Source:**
-• Use a digital, machine-readable version of *The Foucault Pendulum*.
-• Optionally, include a secondary text of similar thematic complexity for cross-validation.
+* Use a digital, machine-readable version of *The Foucault Pendulum*.
+* Optionally, include a secondary text of similar thematic complexity for cross-validation.
 
 **Preprocessing Steps:**
-• **Cleaning:** Remove extraneous metadata and standardize formatting (e.g., punctuation, line breaks).
-• **Segmentation:**
+* **Cleaning:** Remove extraneous metadata and standardize formatting (e.g., punctuation, line breaks).
+* **Segmentation:**
  – Segment the text into logical units (e.g., chapters or fixed-length windows, such as every 1,000 words) to serve as discrete time steps for analysis.
  – Each segment will be treated as a “frame” in the fluid simulation.
 
@@ -78,14 +78,14 @@ Then, iterate over the segments to update $` \(\vec{e}_{\text{theme}}\) `$ at ea
 #### Pipeline B: LLM-Based Analysis
 
 **Method:**
-• Utilize a transformer-based model (e.g., BERT, GPT-4) fine-tuned for sentiment and topic detection, adapted to capture thematic nuances relevant to Eco’s text.
-• Process the same segmented text to generate conventional metrics such as:
+* Utilize a transformer-based model (e.g., BERT, GPT-4) fine-tuned for sentiment and topic detection, adapted to capture thematic nuances relevant to Eco’s text.
+* Process the same segmented text to generate conventional metrics such as:
  – Average sentiment or thematic intensity scores per segment.
  – Topic distributions (using, for example, topic modeling or embedding-based clustering).
 
 **Output:**
-• Produce comparable time-series graphs that show changes in sentiment or dominant themes across the segments.
-• The model might output probabilities or continuous scores representing the presence of conspiratorial themes.
+* Produce comparable time-series graphs that show changes in sentiment or dominant themes across the segments.
+* The model might output probabilities or continuous scores representing the presence of conspiratorial themes.
 
 ---
 
