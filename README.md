@@ -94,24 +94,24 @@ Then, iterate over the segments to update $` \(\vec{e}_{\text{theme}}\) `$ at ea
 #### Quantitative Comparison
 
 **Metric Alignment:**
-• For each segment, record:
+ * For each segment, record:
  - The fluid-inspired density, pressure, velocity, and viscosity values.
  - The LLM-derived sentiment or thematic intensity scores.
 
 **Analysis Techniques:**
-• **Correlation Analysis:** Calculate Pearson or Spearman correlations between corresponding metrics from both pipelines.
-• **Time Series Similarity:** Use Dynamic Time Warping (DTW) or mean squared error (MSE) to compare the evolution curves.
-• **Statistical Testing:** Conduct paired statistical tests (e.g., t-tests) to determine whether differences in metric trajectories are significant.
+* **Correlation Analysis:** Calculate Pearson or Spearman correlations between corresponding metrics from both pipelines.
+* **Time Series Similarity:** Use Dynamic Time Warping (DTW) or mean squared error (MSE) to compare the evolution curves.
+* **Statistical Testing:** Conduct paired statistical tests (e.g., t-tests) to determine whether differences in metric trajectories are significant.
 
 #### Qualitative Evaluation
 
 **Expert Evaluation:**
-• Assemble a panel of literary scholars familiar with Eco’s work.
-• Present visualizations and segmented analyses from both pipelines.
-• Use structured surveys or semi-structured interviews to rate:
+* Assemble a panel of literary scholars familiar with Eco’s work.
+* Present visualizations and segmented analyses from both pipelines.
+* Use structured surveys or semi-structured interviews to rate:
  – Interpretability of thematic dynamics.
  – Alignment with known narrative shifts and symbolic moments in the text.
 
 **Hybrid Analysis:**
-• Explore the benefits of combining both methods by overlaying LLM output on the fluid dynamics visualization.
-• Assess whether the hybrid model offers richer insights into the narrative’s thematic evolution.
+* Explore the benefits of combining both methods by overlaying LLM output on the fluid dynamics visualization.*
+*  Assess whether the hybrid model offers richer insights into the narrative’s thematic evolution.
